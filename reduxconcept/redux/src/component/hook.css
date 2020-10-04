@@ -1,0 +1,9 @@
+.card{
+text-align: center;
+    width: 30vh;
+    height: 100%;
+
+    background-color: lightblue;
+border-right:  2px  solid rgb(57, 65, 57);
+border-bottom:3px  solid rgb(84, 85, 84);
+}
